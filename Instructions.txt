@@ -1,0 +1,1 @@
+Using JavaScript and the Document API, create a simple to-do list application. It should have a form that takes in an input and then adds that input to a list that is displayed in the HTML. For bonus points, add functionality to also remove items from the list.
